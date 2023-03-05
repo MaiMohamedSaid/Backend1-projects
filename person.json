@@ -1,0 +1,95 @@
+[
+  { "fname": "mai", "lname": "mohamed" },
+  { "id": 1, "fname": "mai", "lname": "mohamed", "city": "fayoum", "age": 21 },
+  { "id": 2, "fname": "samy", "lname": "mohamed", "city": "alex", "age": 21 },
+  { "id": 3, "fname": "ramy", "lname": "mohamed", "city": "alex", "age": 24 },
+  { "id": 4, "fname": "said", "lname": "mohamed", "city": "cairo", "age": 25 },
+  { "id": 6, "fname": "Adham", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 7, "fname": "tasnim", "lname": "mohamed", "city": "Giza", "age": 20 },
+  {
+    "id": 9,
+    "fname": "nourhan",
+    "lname": "mohamed",
+    "city": "Giza",
+    "age": 20
+  },
+  { "id": 10, "fname": "Aya", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 11, "fname": "menna", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 12, "fname": "mena", "lname": "mohamed", "city": "Giza", "age": 20 },
+  {
+    "id": 13,
+    "fname": "kareem",
+    "lname": "mohamed",
+    "city": "Giza",
+    "age": 20
+  },
+  { "id": 14, "fname": "karma", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 15, "fname": "dalia", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 16, "fname": "doaa", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 17, "fname": "goad", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 18, "fname": "reham", "lname": "mohamed", "city": "Giza", "age": 20 },
+  { "id": 19, "fname": "rahma", "lname": "mohamed", "city": "Giza", "age": 20 },
+  {
+    "id": 20,
+    "fname": "goad",
+    "lname": "mohamed",
+    "city": "Giza",
+    "Gradecourses": [null, 20, 90, 90, 70, 100],
+    "total": null,
+    "avg": "NaN%"
+  },
+  {
+    "id": 21,
+    "fname": "goad",
+    "lname": "mohamed",
+    "city": "Giza",
+    "Gradecourses": [null, 20, 90, 90, 70, 100],
+    "total": null,
+    "avg": "NaN%"
+  },
+  {
+    "id": 22,
+    "fname": "goad",
+    "lname": "mohamed",
+    "city": "Giza",
+    "Gradecourses": [null, 20, 90, 90, 70, 100],
+    "total": null,
+    "avg": "NaN%"
+  },
+  {
+    "id": 23,
+    "fname": "goad",
+    "lname": "mohamed",
+    "city": "Giza",
+    "Gradecourses": [null, 90, 90, 70, 100],
+    "total": null,
+    "avg": "NaN%"
+  },
+  {
+    "id": 24,
+    "fname": "goad",
+    "lname": "mohamed",
+    "city": "Giza",
+    "Gradecourses": [null, null, 90, 90, 70, 100],
+    "total": null,
+    "avg": "NaN%"
+  },
+  {
+    "id": 25,
+    "fname": "goad",
+    "lname": "mohamed",
+    "city": "Giza",
+    "Gradecourses": [null, 20, 90, 90, 70, 100],
+    "total": null,
+    "avg": "NaN%"
+  },
+  {
+    "id": "Giz",
+    "fname": 26,
+    "lname": "goad",
+    "city": "mohamed",
+    "Gradecourses": [20, 90, 90, 70, 100, 80],
+    "total": 450,
+    "avg": "75.00%"
+  }
+]

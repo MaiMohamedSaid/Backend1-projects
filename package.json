@@ -1,0 +1,37 @@
+{
+  "name": "task2-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "homepage": "https://MaiMohamedSaid.github.io/Backend1-projects",
+  "dependencies": {
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^4.3.0",
+    "cliui": "^8.0.1",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "emoji-regex": "^8.0.0",
+    "escalade": "^3.1.1",
+    "get-caller-file": "^2.0.5",
+    "is-fullwidth-code-point": "^3.0.0",
+    "require-directory": "^2.1.1",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "validator": "^13.9.0",
+    "wrap-ansi": "^7.0.0",
+    "y18n": "^5.0.8",
+    "yargs": "^17.7.1",
+    "yargs-parser": "^21.1.1"
+  },
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
